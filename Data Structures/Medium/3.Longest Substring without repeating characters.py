@@ -25,3 +25,5 @@ def lengthOfLongestSubstring(s: str) -> int:
 
 
 print(lengthOfLongestSubstring("pwwkew"))
+s = 'aaa'
+s.find('a')
